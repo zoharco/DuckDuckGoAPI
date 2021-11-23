@@ -1,0 +1,18 @@
+.searchResults {
+    width:75%;
+}
+.topics {
+    font-size: 18px;
+    min-height: 300px;
+}
+.topics li{
+    margin-bottom: 5px;
+}
+.topics a {
+    color: black;
+
+}
+.topics a:hover {
+    color: #1976d2;
+    text-decoration: underline;
+}

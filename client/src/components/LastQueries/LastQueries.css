@@ -1,0 +1,54 @@
+.lastQueries {
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    height:280px;
+    
+}
+.lastQueries h2{
+    font-size: 14px;
+    margin-top: 0;
+}
+
+.lastQueries ul{
+    list-style-type: none;
+    
+}
+
+.lastQueries li button {
+    border: 1px solid transparent;
+    background: none;
+    cursor: pointer;
+}
+
+.lastQueries li button:hover {
+    border: 1px solid #1976d2;
+    color: #1976d2;
+    border-radius: 4px;
+}
+
+
+.saveBtnWrap {
+    display: flex;
+    flex-direction: column;
+    margin-top: auto;
+    align-items: center;
+
+}
+
+.saveBtn {
+    border-color: #1976d2;
+    background: #1976d2;
+    color: #fff;
+    border-radius: 4px;
+}
+.saveBtn:focus-visible {
+    outline: none;
+}
+
+.fetchSucceedMsg {
+    font-size: 10px;
+    color: #1976d2;
+    
+    
+}

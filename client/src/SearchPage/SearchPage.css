@@ -1,0 +1,36 @@
+.searchPage {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.searchPage header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+
+.searchPage main{
+    display: flex;
+    flex-direction: column;
+    
+}
+.searchPage main ul.topics{
+    list-style-type: none;
+}
+
+.mainWrap {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+    height:470px
+}
+
+
+footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

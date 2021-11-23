@@ -1,0 +1,4 @@
+export const FETCH_DATA_SUCCESS = 'FETCH_DATA_SUCCESS';
+export const FETCH_DATA_FAILED = 'FETCH_DATA_FAILED';
+
+// export const UPDATE_DATA = 'UPDATE_DATA';
